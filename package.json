@@ -8,14 +8,12 @@
     "build": "nuxt build",
     "start": "nuxt start"
   },
-  "devDependencies": {
-    "axios": "^0.19.2",
-    "nuxt": "^2.14.3"
-  },
   "dependencies": {
     "cookieparser": "^0.1.0",
     "dayjs": "^1.8.34",
     "js-cookie": "^2.2.1",
-    "markdown-it": "^11.0.0"
+    "markdown-it": "^11.0.0",
+    "axios": "^0.19.2",
+    "nuxt": "^2.14.3"
   }
 }
